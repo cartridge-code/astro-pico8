@@ -1,0 +1,30 @@
+# --- PICO-8 source carts ---
+# *.p8
+# *.p8.png
+
+# --- Exported artifacts (usually DON'T commit) ---
+# Web export
+*.html
+*.js
+*.data
+
+# Common packaged exports
+*.zip
+
+# Native exports
+*.exe
+*.bin
+*.app
+*.dmg
+*.love
+
+# Folders
+dist/
+exports/
+build/
+
+# --- OS/editor noise ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
