@@ -4,7 +4,9 @@ A fast-paced retro shoot’em up built in PICO-8. A compact demake of an earlier
 
 ## ▶️ Play
 
-- itch.io (web + downloads): https://cartridgecode.itch.io/astro-demake
+Play the latest build on itch.io (web + downloads):
+
+- **▶️ Open game page:** https://cartridgecode.itch.io/astro-demake
 
 ## 🖥️ Run locally (PICO-8)
 
