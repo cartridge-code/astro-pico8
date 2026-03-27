@@ -2,6 +2,16 @@
 
 A fast-paced retro shoot’em up built in PICO-8. A compact demake of an earlier Godot project, reimagined with minimalist arcade mechanics.
 
+## ▶️ Play
+
+- itch.io (web + downloads): https://cartridgecode.itch.io/astro-demake
+
+## ⬇️ Download
+
+Download the latest build from itch.io:
+
+- https://cartridgecode.itch.io/astro-demake
+
 ---
 
 ## 🎮 Controls
