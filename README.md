@@ -1,5 +1,7 @@
 # Astro: Demake
 
+<img width="420" alt="CartridgeCode_astro_0-1-0_with-pico-8" src="https://github.com/user-attachments/assets/48e572b0-405c-4170-9276-06da39b2a315" />
+
 A fast-paced retro shoot’em up built in PICO-8. A compact demake of an earlier Godot project, reimagined with minimalist arcade mechanics.
 
 ## ▶️ Play
