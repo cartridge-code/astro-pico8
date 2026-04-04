@@ -1,8 +1,16 @@
 # Astro: Demake
 
-<img width="420" alt="CartridgeCode_astro_0-1-0_with-pico-8" src="https://github.com/user-attachments/assets/48e572b0-405c-4170-9276-06da39b2a315" />
-
-A fast-paced retro shoot’em up built in PICO-8. A compact demake of an earlier Godot project, reimagined with minimalist arcade mechanics.
+<table>
+  <tr>
+    <td>
+      <img width="256" alt="astro_3" src="https://github.com/user-attachments/assets/68dcff0e-f1b9-4431-bcc5-9912f93db68d" />
+    </td>
+    <td>
+      A fast-paced retro shoot’em up built in PICO-8.
+      A compact demake of an earlier Godot project, reimagined with minimalist arcade mechanics.
+    </td>
+  </tr>
+</table>
 
 ## ▶️ Play
 
@@ -28,9 +36,10 @@ Play the latest build on itch.io (web + downloads):
 
 ## 📜 Rules
 
-- Destroy incoming enemies and survive waves as long as possible  
+- Destroy incoming enemies and survive waves as long as possible
+- Steal their energy to become more powerfull, but take one hit and loose it all
 - Avoid enemy ships and projectiles  
-- The game ends when you lose all lives or complete all waves  
+- The game ends when you lose all lives or complete all waves
 
 ---
 
@@ -47,6 +56,8 @@ Expect ongoing changes and experimentation as development continues.
 ---
 
 ## 🧪 Status
+
+<img width="420" alt="CartridgeCode_astro_0-2-0_with-pico-8" src="https://github.com/user-attachments/assets/f25644d1-0efe-409e-979d-e7be4a725574" />
 
 Work in progress / experimental build.
 
