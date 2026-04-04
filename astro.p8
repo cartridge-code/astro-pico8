@@ -1818,7 +1818,7 @@ function draw_ui()
 	draw_lives()
 	draw_combo()
 	draw_weapons()
-	print("score: "..score,80, 3, 7)
+	print("score: "..score,72, 3, 7)
 	
 	pal()
 end
